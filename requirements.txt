@@ -1,0 +1,13 @@
+python-telegram-bot[job-queue]==21.6
+
+aiohttp
+
+requests
+
+pycryptodome
+
+colorama
+
+protobuf
+
+urllib3
